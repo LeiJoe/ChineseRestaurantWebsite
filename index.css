@@ -1,0 +1,19 @@
+.bg-nav {
+    background-color: #b12325;
+}
+
+.bg-home {
+    background-color: #b12325;
+}
+
+.bg-overlay {
+	background: rgba(0, 0, 0, 0.5);
+}
+
+.hidden{
+	display: none;
+}
+
+a {
+	text-decoration: none !important;
+}
